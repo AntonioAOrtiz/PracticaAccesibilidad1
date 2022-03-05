@@ -152,7 +152,7 @@ y no haya margenes entre enlaces.
 
 nav ul li a{
 	letter-spacing: 1px;
-	color: #222;
+	color: black;
 	padding: 8px 15px;
 	margin: 0px;
 }
@@ -160,7 +160,7 @@ nav ul li a{
 /*Aplicamos un borde inferior al hacer hover al enlace 
 y a la clase actual que nos marca en la página que nos encontramos*/
 
-nav ul li:hover, .actual{border-bottom: solid 3px #CC0000;}
+nav ul li:hover, .actual{border-bottom: solid 3px black;}
 
 /********************
        Artículo 
@@ -177,7 +177,7 @@ section p{
     margin-right: 5px;
 }
 /*Cambiamos el color de los enlaces dentro de los párrafos*/
-section a{color: #CC0000;}
+section a{color: black;}
 
 /*Definimos tamaño máximo y posición de las imágenes en los artículos*/
 section img{
