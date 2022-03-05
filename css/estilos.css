@@ -248,9 +248,7 @@ ol ul {list-style: square;}
 
 /*En el segundo hijo de la lista ordenada hacemos que no tenga estilo (Prensa y En la red) 
 Ya que tienen el icono.*/
-ol > li:nth-child(2) > ul{ 
-	background-color: blue;
-	list-style: none;}
+ol > li:nth-child(2) > ul{ list-style: none;}
 
 /*Los elementos la sublista de la sublista de la lista ordenada 
 y los elemento de la sublista del tercer elemento tengan otra tipografía y estén en cursiva.*/
