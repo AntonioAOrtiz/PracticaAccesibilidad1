@@ -277,4 +277,10 @@ footer p{
 	font-size: 0.85rem;
 }
 
+/* Ajustes para accesibilidad */
+
+iframe .ytp-title-link{
+	background-color: #000;
+}
+
 
