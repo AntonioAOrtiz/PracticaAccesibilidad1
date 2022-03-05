@@ -279,4 +279,6 @@ footer p{
 
 /* Ajustes para accesibilidad */
 
-
+ol>li{
+	font-weight: bold;
+}
