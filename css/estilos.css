@@ -279,16 +279,8 @@ footer p{
 
 /* Ajustes para accesibilidad */
 
-iframe .ytp-title-link{
-	color: #000;
-}
-
-iframe .ytp-impression-link-text{
-	color: #000;
-}
-
-iframe .ytp-gradient-top{
-	color:#000;
+ol>li>ul>li>a{
+	color: blue;
 }
 
 
