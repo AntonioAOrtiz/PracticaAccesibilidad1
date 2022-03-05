@@ -254,7 +254,7 @@ ol > li:nth-child(2) > ul{ list-style: none;}
 y los elemento de la sublista del tercer elemento tengan otra tipografía y estén en cursiva.*/
 ol > li > ul > li > ul > li,
 ol > li:nth-child(3) > ul > li{
-	font-style: italic;
+	color: blue;
 	font-family: serif
 }
 
