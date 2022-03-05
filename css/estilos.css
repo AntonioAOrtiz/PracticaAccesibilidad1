@@ -280,7 +280,7 @@ footer p{
 /* Ajustes para accesibilidad */
 
 ol>li>ul>li>a{
-	color: blue;
+	background-color: blue;
 }
 
 
