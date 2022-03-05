@@ -280,7 +280,15 @@ footer p{
 /* Ajustes para accesibilidad */
 
 iframe .ytp-title-link{
-	background-color: #000;
+	color: #000;
+}
+
+iframe .ytp-impression-link-text{
+	color: #000;
+}
+
+iframe .ytp-gradient-top{
+	color:#000;
 }
 
 
