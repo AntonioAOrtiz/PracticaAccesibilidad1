@@ -177,7 +177,7 @@ section p{
     margin-right: 5px;
 }
 /*Cambiamos el color de los enlaces dentro de los párrafos*/
-section a{color: black;}
+section a{color: blue;}
 
 /*Definimos tamaño máximo y posición de las imágenes en los artículos*/
 section img{
